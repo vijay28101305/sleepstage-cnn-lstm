@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### Run the notebook:
 Open `Machine_learning_project.ipynb` and execute all cells.
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Use multi-channel EEG (Fpz–Cz + Pz–Oz + EOG/EMG)  
 - Increase temporal context to 15–30 epochs  
@@ -89,6 +89,6 @@ Open `Machine_learning_project.ipynb` and execute all cells.
 - Add EEG artifact detection and removal  
 - Explore subject-adaptive fine-tuning  
 
-## 📣 Elevator Pitch
+## Elevator Pitch
 
 This system automatically scores sleep stages from raw EEG, reducing clinical scoring time from hours to seconds and enabling scalable sleep diagnostics.
