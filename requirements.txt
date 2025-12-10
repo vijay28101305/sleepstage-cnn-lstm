@@ -1,11 +1,8 @@
-mne
 numpy
-scipy
 pandas
 scikit-learn
+scipy
 matplotlib
-seaborn
+mne
 torch
-torchaudio
-torchvision
 tqdm
