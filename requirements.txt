@@ -1,10 +1,10 @@
 numpy
-pandas
-scipy
 mne
-matplotlib
 scikit-learn
-tqdm
 torch
-torchvision
 torchaudio
+torchvision
+matplotlib
+scipy
+pandas
+tqdm
