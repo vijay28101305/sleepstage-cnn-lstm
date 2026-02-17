@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+checkpoints/
+models/
+runs/
+logs/
+wandb/
+mlruns/
+
+# Data (never commit datasets)
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.npz
+*.npy
+
+# IDE
+.vscode/
+.idea/
+
