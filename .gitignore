@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter/Colab junk
+.ipynb_checkpoints/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Outputs (don’t commit)
+outputs/
+results/
+*.csv
+
+# Datasets (never commit raw data)
+data/
+dataset/
+datasets/
+*.edf

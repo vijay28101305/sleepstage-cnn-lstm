@@ -1,0 +1,10 @@
+{
+  "input_shape": {
+    "sequence_len": 5,
+    "channels": 1,
+    "timesteps": 3000
+  },
+  "num_classes": 5,
+  "architecture": "CNN-LSTM",
+  "framework": "pytorch"
+}
